@@ -1,0 +1,335 @@
+BODY
+{
+	margin: 0px;
+	color: #414141;
+	font-size: 12px;
+}
+FORM
+{
+	padding-bottom: 0px;
+	list-style-type: none;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+UL
+{
+	padding-bottom: 0px;
+	list-style-type: none;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+LI
+{
+	padding-bottom: 0px;
+	list-style-type: none;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+DL
+{
+	padding-bottom: 0px;
+	list-style-type: none;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+DT
+{
+	padding-bottom: 0px;
+	list-style-type: none;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+DD
+{
+	padding-bottom: 0px;
+	list-style-type: none;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+TABLE
+{
+	border-collapse: collapse;
+	empty-cells: show;
+	color: #000000;
+}
+IMG
+{
+	border-style: none;
+	border-color: inherit;
+	border-width: 0px;
+	vertical-align: middle;
+	height: 13px;
+}
+A
+{
+	color: #005eac;
+	text-decoration: none;
+}
+A:visited
+{
+	color: #005eac;
+}
+A:active
+{
+	color: #005eac;
+}
+A:hover
+{
+	color: #ff5500;
+}
+.left
+{
+	text-align: left;
+}
+.divmain
+{
+	overflow-x: hidden;
+	width: 800px;
+	margin: 0 auto;
+}
+.inputbox
+{
+	width: 100%;
+}
+.inputbox tr
+{
+	line-height: 21px;
+}
+.inputbox tr td
+{
+	border: solid 1px #fff;
+	padding: 1px;
+}
+.inputbox tr td:first-child
+{
+	width: 18%;
+	background-color: #cadee8;
+}
+.inputbox tr td:first-child + td
+{
+	width: 32%;
+	background-color: #e9f2f7;
+}
+.inputbox tr td:first-child + td + td
+{
+	width: 18%;
+	background-color: #cadee8;
+}
+.inputbox tr td:first-child + td + td + td
+{
+	width: 32%;
+	background-color: #e9f2f7;
+}
+.inputbox .title
+{
+	height: 21px;
+	text-align: left;
+	vertical-align: middle;
+	background: url('../images/record_title_bg.png') repeat-x;
+	border: none;
+}
+.inputbox .lastline
+{
+	height: 21px;
+	text-align: center;
+}
+.recordbox
+{
+	width: 100%;
+}
+.recordbox .title
+{
+	height: 21px;
+	text-align: left;
+	vertical-align: middle;
+	background: url('../images/record_title_bg.png') repeat-x;
+	border-bottom: solid 1px #fff;
+}
+.recordbox .firstline
+{
+	background-color: #e9f2f7;
+}
+.recordbox .lastline
+{
+	height: 21px;
+	background-color: #e9f2f7;
+}
+
+.recordbox table tr td
+{
+	width: 3%;
+}
+
+.recordbox table tr td:first-child
+{
+	width: 1%;
+}
+
+.totalbox
+{
+	border-style: hidden solid hidden solid;
+	border-width: 1px;
+	border-color: #fff;
+	width: 100%;
+	background-color: #cadee8;
+	text-align: center;
+}
+.totalbox .title
+{
+	height: 21px;
+	text-align: left;
+	vertical-align: middle;
+	background: url('../images/record_title_bg.png') repeat-x;
+	border-bottom: solid 1px #fff;
+}
+.totalbox .datalist
+{
+	width: 750px;
+	background-color: #ffffff;
+	margin: auto;
+}
+.totalbox .datalist .headline
+{
+	background-color: #cadee8;
+	text-align: left;
+	height: 20px;
+}
+.totalbox .datalist table
+{
+	width: 100%;
+	background-color: #e9f2f7;
+	text-align: left;
+}
+
+.totalbox .datalist table tr td
+{
+	width: 1%;
+	height: 18px;
+}
+
+.totalbox .datalist2 table tr td
+{
+	width: 10%;
+	height: 18px;
+}
+
+.totalbox .color
+{
+	background-color: #e9f2f7;
+}
+
+.usertable
+{
+	border-style: hidden solid hidden solid;
+	border-width: 1px;
+	border-color: #fff;
+	width: 100%;
+	background-color: #cadee8;
+	text-align: center;
+}
+.usertable table
+{
+	width: 750px;
+	background-color: #e9f2f7;
+	margin: auto;
+}
+.usertable .title
+{
+	height: 21px;
+	text-align: left;
+	vertical-align: middle;
+	background: url('../images/record_title_bg.png') repeat-x;
+	border: none;
+}
+.usertable table tr:first-child
+{
+	background-color: #cadee8;
+}
+.usertable table tr td
+{
+	border: solid 1px #fff;
+	width: 25%;
+}
+
+.infobox
+{
+	border-style: hidden solid hidden solid;
+	border-width: 1px;
+	border-color: #fff;
+	width: 100%;
+	background-color: #cadee8;
+	text-align: center;
+}
+.infobox .title
+{
+	height: 21px;
+	text-align: left;
+	vertical-align: middle;
+	background: url('../images/record_title_bg.png') repeat-x;
+	border-bottom: solid 1px #fff;
+}
+
+.button
+{
+	border: 1px solid #7b9ebd;
+    background-color: #EAEDF1;
+	padding-right: 2px;
+	padding-left: 2px;
+	font-size: 12px;
+	cursor: pointer;
+	padding-top: 2px;
+	padding-bottom: 1px;
+    height: 21px;
+}
+
+.textbox
+{
+	background: #ffffff;
+	border: 1px solid #8EB0FF;
+	font-family: "arial";
+	font-size: 9pt;
+	height: 18px;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+.dropdownlist
+{
+	background: #ffffff;
+	border: 1px solid #8EB0FF;
+	font-family: "arial";
+	font-size: 9pt;
+	height: 21px;
+	padding: 1px;
+}
+.middle
+{
+	vertical-align: middle;
+	text-align: center;
+	height: 15px;
+	width: 18px;
+}
+
+.HyperLink:visited
+{
+	color: #782727;
+}
+
+.hidden
+{
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}

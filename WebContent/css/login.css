@@ -1,0 +1,111 @@
+BODY { 
+	MARGIN: 0px; COLOR: #414141; FONT-SIZE: 12px
+}
+FORM {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TABLE {
+	BORDER-COLLAPSE: collapse; EMPTY-CELLS: show
+}
+IMG {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; VERTICAL-ALIGN: middle; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+A {
+	COLOR: #005eac; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #005eac
+}
+A:active {
+	COLOR: #005eac
+}
+A:hover {
+	COLOR: #ff5500
+}
+.clearfix:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+.clearfix {
+	DISPLAY: inline-block
+}
+.clearfix {
+	DISPLAY: block
+}
+.ime-disabled {
+	IME-MODE: disabled
+}
+.left {
+	FLOAT: left
+}
+.right {
+	FLOAT: right
+}
+.clear {
+	CLEAR: both
+}
+
+.login_input {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; MARGIN-TOP: 2px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; BACKGROUND: #fff; HEIGHT: 22px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px;WIDTH: 130px
+}
+.login_dropdownlist {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; MARGIN-TOP: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; BACKGROUND: #fff; HEIGHT: 22px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px;WIDTH: 136px
+}
+.loginbody {
+	background:url(../images/bg.jpg) repeat-x
+}
+.login_div {
+	POSITION:relative;  WIDTH: 800px; MARGIN-RIGHT: auto; MARGIN-LEFT:auto;/* background:url(../images/login_logo.png) no-repeat*/
+}
+.login_logo {
+	WIDTH: 474px;BACKGROUND: url(../images/login_logo.png) no-repeat;height: 78px;POSITION: absolute; MARGIN-LEFT: 0px; TOP: 0px
+}
+.login_box {
+	WIDTH: 434px; BACKGROUND: url(../images/login_bg.png) no-repeat 183px 150px; HEIGHT: 191px; PADDING-TOP: 235px; padding-left:183px
+}
+.login_content {
+	DISPLAY: inline-block; FLOAT: left; MARGIN-LEFT: 112px
+}
+.login_content DL {
+	HEIGHT: 35px; CLEAR: both
+}
+.login_content DL DT {
+	TEXT-ALIGN: right; LINE-HEIGHT: 24px; WIDTH: 65px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; FLOAT: left; COLOR: #fff
+}
+.login_content DL DD {
+	FLOAT: left
+}
+.login_foot {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 110px; PADDING-RIGHT: 110px; HEIGHT: 30px; CLEAR: both; PADDING-TOP: 10px
+}
+.login_foot .login_btn {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; LINE-HEIGHT: 22px; WIDTH: 78px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; BACKGROUND: url(../images/login_btn_bg.gif) no-repeat; HEIGHT: 24px; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; BORDER-RIGHT: 0px
+}
+.login_tip {
+	TEXT-ALIGN: center; MARGIN-TOP: 5px
+}
+.login_tip SPAN {
+	LINE-HEIGHT: 16px; PADDING-LEFT: 15px; BACKGROUND: url(../images/ico-5.png) no-repeat left center; COLOR: #ff0
+}
+.login_copyright
+{ 
+	text-align: center;
+	line-height: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000000;
+	padding-top: 60px;
+}
